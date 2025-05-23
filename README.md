@@ -58,8 +58,5 @@ Uygulama verileri, projenin ana dizininde bulunan `finans_verileri.json` ve `but
 ## Katkıda Bulunma
 Projeye katkıda bulunmak isterseniz, pull request göndererek veya issues açarak geliştirmelere yardımcı olabilirsiniz.
 
-## Lisans
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakabilirsiniz (Eğer bir lisans dosyası ekleyecekseniz).
-
 ## İletişim
-Sorularınız veya geri bildirimleriniz için lütfen [E-posta Adresiniz] adresine ulaşın veya bir issue açın. 
+Sorularınız veya geri bildirimleriniz için lütfen muhammetenesgumus0@gmail.com adresine ulaşın veya bir issue açın. 
